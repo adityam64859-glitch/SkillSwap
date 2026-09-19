@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "Decentralized P2P skill barter network to trade talent directly with zero fiat currency, featuring 3D interactive mesh and time-banking ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
